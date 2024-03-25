@@ -1,0 +1,8 @@
+# uname.yml
+---
+  - hosts: webservers:loadbalancers
+    gather_facts: false
+    tasks:
+        - name: Get OS type        
+          shell: uname -a
+          
