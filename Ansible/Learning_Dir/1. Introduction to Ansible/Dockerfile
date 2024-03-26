@@ -19,5 +19,13 @@ RUN apt-get update && \
 # Create home_folder directory and move to it
 WORKDIR /home_folder
 
+# Create ansible.cfg file
+RUN touch ansible.cfg
+
+# Create hosts list
+RUN touch hosts-dev
+
+# Copy essentials files
+
 # Specify the entry point
 CMD [ "ansible-playbook", "--version" ]
