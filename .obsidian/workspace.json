@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible/Ansible_Vault/4. Playbooks in Action.md",
+                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ansible/Ansible_Vault/4. Playbooks in Action.md",
+                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ansible/Ansible_Vault/4. Playbooks in Action.md",
+                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ansible/Ansible_Vault/4. Playbooks in Action.md"
+                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md"
               }
             }
           }
@@ -148,7 +148,28 @@
   },
   "active": "db02fef8b131082d",
   "lastOpenFiles": [
+    "Docker/Docker_Vault/1. Container and Docker.md",
+    "Kubernetes/Kubernetes_Vault/Kubernetes.md",
+    "Script/Script_Template/kuber_check_install.sh",
+    "Script/Script_Template/kuber_install.sh",
+    "Script/Script_Vault/Script.md",
+    "Docker/Docker_Vault/3. Docker Cheatsheet.md",
+    "Docker/Docker_Vault/2. Docker images.md",
+    "Ansible/Ansible_Vault/Picture/6. Other ansible topic.md",
+    "GIt/dafg",
+    "GIt/secret.json",
+    "GIt/readme.md",
+    "GIt",
+    "Ansible/Ansible_Vault/5. How to use variables.md",
+    "Ansible/Learning_Dir/4. Using Variables/gather_facts_var.yml",
+    "Ansible/Learning_Dir/4. Using Variables/register.yml",
+    "Ansible/Ansible_Vault/Picture/Pasted image 20240326114638.png",
+    "Ansible/Ansible_Vault/3. Ansible Playbook.md",
     "Ansible/Ansible_Vault/2. Ansible Tasks.md",
-    "Ansible/Ansible_Vault/1. Introduction to Ansible.md"
+    "Ansible/Ansible_Vault/1. Introduction to Ansible.md",
+    "Ansible/Ansible_Vault/4. Playbooks in Action.md",
+    "Ansible/Learning_Dir/4. Using Variables",
+    "Ansible/Learning_Dir/3. Ansible Playbooks/check_apache_status.yml",
+    "Ansible/Learning_Dir/3. Ansible Playbooks/Single Playbook/setup-app.yml"
   ]
 }

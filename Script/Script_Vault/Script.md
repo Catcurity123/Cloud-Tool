@@ -47,6 +47,6 @@ sudo apt install docker-ce docker-ce-cli containerd.io
 # Install Docker-compose
 sudo apt install docker-compose
 
-# Add user to docker group
+# Add user to docker groupx`
 sudo usermod cloud_user -aG docker
 ```
