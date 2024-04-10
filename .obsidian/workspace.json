@@ -11,15 +11,26 @@
             "id": "db02fef8b131082d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Docker/Picture/Pasted image 20240409125721.png"
+              }
+            }
+          },
+          {
+            "id": "64e1181b455cff2a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
+                "file": "Docker/Docker_Vault/7. Deploying Apps with Docker Compose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7498fd9736c0df80",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
+                "file": "Docker/Docker_Vault/7. Deploying Apps with Docker Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md",
+                "file": "Docker/Docker_Vault/7. Deploying Apps with Docker Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker_Vault/3. Docker Cheatsheet.md"
+                "file": "Docker/Docker_Vault/7. Deploying Apps with Docker Compose.md"
               }
             }
           }
@@ -146,30 +158,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db02fef8b131082d",
+  "active": "64e1181b455cff2a",
   "lastOpenFiles": [
+    "Docker/Docker_Vault/2. Docker deepdive and cheatsheet.md",
+    "Docker/Docker_Vault/7. Deploying Apps with Docker Compose.md",
+    "Pasted image 20240410135044.png",
+    "Docker/Docker_Vault/6. Containerizing an app.md",
+    "Docker/Picture/Pasted image 20240410134254.png",
+    "Docker/Docker_Vault/5. Docker Container.md",
     "Docker/Docker_Vault/1. Container and Docker.md",
-    "Kubernetes/Kubernetes_Vault/Kubernetes.md",
-    "Script/Script_Template/kuber_check_install.sh",
-    "Script/Script_Template/kuber_install.sh",
+    "Docker/Picture/Pasted image 20240410132424.png",
+    "Docker/Picture/Pasted image 20240410132417.png",
+    "Docker/Docker_Vault/4. Docker Image.md",
+    "Docker/Picture/Pasted image 20240410131201.png",
+    "Docker/Picture/Pasted image 20240410130657.png",
+    "Docker/Picture/Pasted image 20240409125721.png",
+    "Docker/Picture/Pasted image 20240405190737.png",
+    "Docker/Docker_Vault/3. Docker Engine.md",
+    "Docker/Picture/Pasted image 20240405190435.png",
+    "Docker/Picture/Pasted image 20240405190104.png",
+    "Docker/Picture",
+    "Docker/Test_folder/psweb/views/home.pug",
+    "Docker/Test_folder/psweb/views",
+    "Docker/Test_folder/psweb/package.json",
+    "Docker/Test_folder/psweb/app.js",
+    "Docker/Test_folder/psweb/README.md",
+    "Docker/Test_folder/psweb/Dockerfile",
+    "Docker/Test_folder/psweb",
+    "Docker/Test_folder",
+    "Jenkins/Learning_Dir/3. Jenkin Installation.md",
+    "Jenkins/Learning_Dir/4. Jenkin usage.md",
+    "Jenkins/Jenkins_Installation_using_Docker/mydata-volume/queue.xml",
+    "Jenkins/Jenkins_Installation_using_Docker/mydata-volume/atomic12127210425615292661tmp",
     "Script/Script_Vault/Script.md",
-    "Docker/Docker_Vault/3. Docker Cheatsheet.md",
-    "Docker/Docker_Vault/2. Docker images.md",
-    "Ansible/Ansible_Vault/Picture/6. Other ansible topic.md",
-    "GIt/dafg",
-    "GIt/secret.json",
+    "Jenkins/Learning_Dir/2. Test Driven Development (TDD).md",
+    "Jenkins/Learning_Dir/1. What is CI.CD.md",
     "GIt/readme.md",
-    "GIt",
-    "Ansible/Ansible_Vault/5. How to use variables.md",
-    "Ansible/Learning_Dir/4. Using Variables/gather_facts_var.yml",
-    "Ansible/Learning_Dir/4. Using Variables/register.yml",
-    "Ansible/Ansible_Vault/Picture/Pasted image 20240326114638.png",
-    "Ansible/Ansible_Vault/3. Ansible Playbook.md",
-    "Ansible/Ansible_Vault/2. Ansible Tasks.md",
     "Ansible/Ansible_Vault/1. Introduction to Ansible.md",
     "Ansible/Ansible_Vault/4. Playbooks in Action.md",
-    "Ansible/Learning_Dir/4. Using Variables",
-    "Ansible/Learning_Dir/3. Ansible Playbooks/check_apache_status.yml",
-    "Ansible/Learning_Dir/3. Ansible Playbooks/Single Playbook/setup-app.yml"
+    "Ansible/Ansible_Vault/3. Ansible Playbook.md",
+    "Ansible/Ansible_Vault/5. How to use variables.md",
+    "Kubernetes/Kubernetes_Vault/Kubernetes.md",
+    "Ansible/Ansible_Vault/Picture/6. Other ansible topic.md",
+    "Ansible/Ansible_Vault/2. Ansible Tasks.md"
   ]
 }
