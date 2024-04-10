@@ -1,0 +1,12 @@
+Started by user [8mha:////4Mjsa8SGM5VvdZQojvB4K49L5FqJpeaIU4sTFtK21SbYAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYB/dLi1CL9FKAZZZk5pYl5ABBGiHLFAAAA[0mDang Vi Luan
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/example_proj
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] Done
+Copying file to test.txt
+[example_proj] $ /bin/sh -xe /tmp/jenkins2408151403076780522.sh
++ mapfile -t
+/tmp/jenkins2408151403076780522.sh: 2: mapfile: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
