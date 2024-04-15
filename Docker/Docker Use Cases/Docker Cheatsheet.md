@@ -51,13 +51,15 @@
 
 #### I. Pushing image
 (+) `docker login`
-(+) `docker image tag web:latest (on local) nigelpoulton/web:latest (on registry)`
-
+(+) `docker image tag <image_name> <repository>/<additional_info>:<tag>`
+==> `docker image tag myhello dixluwn/testk8s:v1.0`
+(+) `docker image push <repository>/<additional_info>:<tag>`
+==> `docker image push dixluwn/testk8s:v1.0`
 ![[Pasted image 20240410135044.png |center]]
 
 
 
-#### . Convert key in linux instance
+#### J. Convert key in linux instance
 
 ###### 1. Install putty-tools
 ```
